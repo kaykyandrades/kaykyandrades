@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1° semestre de Engenharia de Software na Universiade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia.
+Atualmente cursando o 2° semestre de Engenharia de Software na Universiade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia.
  
 * **Habilidades Técnicas:** Python
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
